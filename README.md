@@ -1,2 +1,2 @@
-# dimension.exe
+# dimension
 dimension
